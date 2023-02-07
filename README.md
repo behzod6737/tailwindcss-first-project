@@ -1,1 +1,3 @@
-# tailwindcss-first-project
+THIS IS A PROJECT FOR LEARNING  TAILWINDCSS
+
+SMALL BUT ENOUGH.

@@ -1,0 +1,23 @@
+{
+  "name": "tailwindcss-first-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tailwindcss -i ./input.css -o ./style/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behzod6737/tailwindcss-first-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/behzod6737/tailwindcss-first-project/issues"
+  },
+  "homepage": "https://github.com/behzod6737/tailwindcss-first-project#readme",
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
